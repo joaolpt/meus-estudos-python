@@ -16,7 +16,6 @@ Aqui estão os códigos desenvolvidos durante a Hashtag Jornada Python. Clique n
 * **Notebook Principal:**
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/hashtag-jornada-python/previsao-com-machineLearning/inicial.ipynb)
 
----
 
 ## 🎓 Minicurso de Análise de Dados
 Projetos desenvolvidos no minicurso intensivo.
