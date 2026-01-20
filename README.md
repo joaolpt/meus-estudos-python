@@ -29,7 +29,7 @@ Projetos desenvolvidos no minicurso intensivo.
 Pedi para o Gemini fazer alguns desafios para resolver e testar conhecimentos
 
 * **Desafio 1:**
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio1.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio1/desafio1.ipynb)
 
 * **Desafio 2:**
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio2.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio2/desafio2.ipynb)
