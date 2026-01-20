@@ -23,3 +23,9 @@ Projetos desenvolvidos no minicurso intensivo.
 
 * **Aula Prática:**
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/hashtag-jornada-python/minicurso-analise-de-dados/inicial.ipynb)
+
+  ## 🚀 Desafio do Gemini
+  Pedi para o Gemini fazer alguns desafios para resolver e testar conhecimentos
+
+  * **Desafio 1:**
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio1.ipynb)
