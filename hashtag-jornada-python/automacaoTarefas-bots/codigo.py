@@ -1,14 +1,15 @@
-#bibliotecas = pacotes de código
+# bibliotecas = pacotes de código
 import pyautogui
 import time
 import pandas
-#pyautogui.click -> clica
-#pyautogui.write -> escreve um texto
-#pyautogui.press -> aperta uma tecla
-#pyautogui.hotkey -> aperta um atalho (hotkey)
+
+# pyautogui.click -> clica
+# pyautogui.write -> escreve um texto
+# pyautogui.press -> aperta uma tecla
+# pyautogui.hotkey -> aperta um atalho (hotkey)
 pyautogui.PAUSE = 0.5
 link = "https://dlp.hashtagtreinamentos.com/python/intensivao/login"
-email = "pythonimpressionador@gmail.com"    
+email = "pythonimpressionador@gmail.com"
 
 senha = "1234"
 # Passo a Passo do Programa
@@ -21,23 +22,23 @@ pyautogui.press("enter")
 # Passo 2: Fazer Login
 pyautogui.write(link)
 pyautogui.press("enter")
-#fazer uma pausa maior pro site carregar
+# fazer uma pausa maior pro site carregar
 time.sleep(3)
 pyautogui.click(x=750, y=412)
 pyautogui.write(email)
 pyautogui.press("tab")
 pyautogui.write(senha)
 pyautogui.press("enter")
-#fazer uma pausa maior pro site carregar
+# fazer uma pausa maior pro site carregar
 time.sleep(3)
 
 # Passo 3: Abrir a Base de Dados (importar o arquivo)
-tabela = pandas.read_csv("produtos.csv")
+tabela = pandas.read_csv("produtos.zip")
 
 # Passo 5: Repetir o passo 4 até acabar a lista de produtos
 for linha in tabela.index:
-# Passo 4: Cadastrar 1 produto
-    pyautogui.click(x=708, y= 290)
+    # Passo 4: Cadastrar 1 produto
+    pyautogui.click(x=708, y=290)
 
     codigo = str(tabela.loc[linha, "codigo"])
     pyautogui.write(codigo)
