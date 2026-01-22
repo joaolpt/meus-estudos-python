@@ -33,3 +33,6 @@ Pedi para o Gemini fazer alguns desafios para resolver e testar conhecimentos
 
 * **Desafio 2:**
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio2/desafio2.ipynb)
+
+* **Desafio 3:**
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio3/desafio3.ipynb)
