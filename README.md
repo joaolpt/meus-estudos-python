@@ -1,38 +1,39 @@
-# 🐍 Meus Estudos em Python e Data Analysis
+# 🐍 Portfólio de Dados: João Luís
 
-Repositório dedicado aos meus projetos práticos e evolução na área de Dados.
+Bem-vindo ao meu laboratório de Data Science e Analytics!
+Aqui centralizo meus estudos, projetos práticos e desafios de programação. O objetivo é transformar dados brutos em insights de negócio.
 
 ---
 
-## 🚀 Projetos da Jornada Python
+## 🏆 Projetos em Destaque (Desafios Práticos)
+Desafios técnicos realizados para testar conhecimentos em limpeza de dados, estatística e regras de negócio.
 
-Aqui estão os códigos desenvolvidos durante a Hashtag Jornada Python. Clique no botão para rodar diretamente no navegador.
+| Projeto                                   | O que foi feito                                                                                                                                                   | Ferramentas                          |                                                                                             Link                                                                                              |
+| :---------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **📦 E-commerce Olist** <br> *(Desafio 3)* | Análise de **Volume vs. Faturamento**. Realizei merges de tabelas, limpeza de dados e descobri que categorias de "Luxo" (Relógios) faturam mais com menos vendas. | `Pandas` `Merges` `KPIs`             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio3/desafio3.ipynb) |
+| **👥 People Analytics** <br> *(Desafio 2)* | Análise de **Turnover (RH)**. Identifiquei via correlação e boxplots que funcionários com salários menores e poucos anos de casa têm maior tendência a sair.      | `Seaborn` `Estatística` `Correlação` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio2/desafio2.ipynb) |
+| **🛒 Varejo Online** <br> *(Desafio 1)*    | **Segmentação de Clientes (RFM)**. Classifiquei a base de clientes em grupos (Campeões, Em Risco, Novos) baseado em Recência, Frequência e Valor gasto.           | `RFM` `Clustering` `Data Cleaning`   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio1/desafio1.ipynb) |
 
-### 📊 Análise de Dados (Python)
-* **Notebook Principal:**
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/hashtag-jornada-python/analise-de-dados-python/inicial.ipynb)
+---
 
-### 🤖 Previsão com Machine Learning
-* **Notebook Principal:**
+## 📚 Formações e Cursos
+
+### 🚧 EBA Analyst (Em Progresso)
+Formação completa em Análise de Dados focada em mercado.
+* *Projetos em breve...*
+
+### 🚀 Hashtag Jornada Python
+Projetos desenvolvidos durante a imersão intensiva.
+
+* **🤖 Previsão com Machine Learning:** Modelo preditivo para análise de dados.
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/hashtag-jornada-python/previsao-com-machineLearning/inicial.ipynb)
 
+* **📊 Análise de Dados (Python):** Tratamento de bases e gráficos interativos.
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/hashtag-jornada-python/analise-de-dados-python/inicial.ipynb)
 
-## 🎓 Minicurso de Análise de Dados
-Projetos desenvolvidos no minicurso intensivo.
-
-* **Aula Prática:**
+### 🎓 Minicurso de Análise de Dados
+* **Aula Prática Intensiva:**
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/hashtag-jornada-python/minicurso-analise-de-dados/inicial.ipynb)
 
 ---
-
-## 🚀 Desafio do Gemini
-Pedi para o Gemini fazer alguns desafios para resolver e testar conhecimentos
-
-* **Desafio 1:**
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio1/desafio1.ipynb)
-
-* **Desafio 2:**
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio2/desafio2.ipynb)
-
-* **Desafio 3:**
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaolpt/meus-estudos-python/blob/main/desafios/desafio3/desafio3.ipynb)
+*Repositório mantido por [João Luís](https://github.com/joaolpt)*
