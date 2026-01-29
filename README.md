@@ -16,12 +16,6 @@ Desafios técnicos realizados para testar conhecimentos em limpeza de dados, est
 
 ---
 
-## 📚 Formações e Cursos
-
-### 🚧 EBA Analyst (Em Progresso)
-Formação completa em Análise de Dados focada em mercado.
-* *Projetos em breve...*
-
 ### 🚀 Hashtag Jornada Python
 Projetos desenvolvidos durante a imersão intensiva.
 
